@@ -1,0 +1,5 @@
+name: Junjie's Blog
+markdown: redcarpet
+pygments: true
+paginate: 5
+# url: "/blog"
