@@ -16,7 +16,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
  *************************************/
 
 body{
-  font-family: "minion-pro", Adobe Garamond Pro, Georgia, Times, serif;
+  font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
   font-size: 100%;
   line-height: 200%;
   vertical-align: baseline;
@@ -52,7 +52,7 @@ article a,
     background: #fff4cc;
   }
 h1,h2,h3,h4{
-  font-family: "brandon-grotesque", Futura, Helvetica Neue, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
   font-weight: 500;
 }
 code{
@@ -88,7 +88,7 @@ header[role="banner"]{
   .about{
     margin-top: 20px;
     font-size: 1.125em;
-    font-family: "minion-pro", Adobe Garamond Pro, Georgia, Times, serif;
+    font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
     font-weight: normal;
     line-height: 1.4em;
     color: #000;
@@ -160,7 +160,7 @@ section[role="main"]{
         display: block;
         margin-bottom: 8px;
         color: #a4abb2;
-        font-family: "brandon-grotesque", Futura, Helvetica Neue, Helvetica, sans-serif;
+        font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
         font-size: .75em;
         font-weight: 500;
         text-transform: uppercase;
@@ -349,7 +349,7 @@ article .content .gist .gist-meta{
       margin: 0 0 10px 160px;
       font-size: 1.5em;
       padding-top: 15px;
-      font-family: "brandon-grotesque",sans-serif;
+      font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
       font-weight: 200;
     }
     .bio p{
@@ -468,15 +468,5 @@ footer[role="footer"]{
       }
   footer[role="footer"]{
     padding: 30px 0;
-  }
-}
-
-/* Retina
- *************************************/
-
-@media screen and (-webkit-min-device-pixel-ratio : 1.5),screen and (min-device-pixel-ratio : 1.5){
-  header[role="banner"] .logo{
-    background-image: url(http://assets.michieldegraaf.com/blog/img/logo-black@2x.png);
-    background-size: 37px 34px;
   }
 }

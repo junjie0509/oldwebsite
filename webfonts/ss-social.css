@@ -10,9 +10,6 @@
 * <link href="webfonts/ss-social.css" rel="stylesheet" />
 */
 
- @font-face { font-family: minion-pro; src: url('minion-pro.otf'); } 
- @font-face { font-family: brandon-grotesque; font-weight: bold; src: url('brandon-grotesque.otf');}
-
 @font-face {
   font-family: "SSSocial";
   src: url('ss-social-circle.eot');
