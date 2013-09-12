@@ -19,6 +19,7 @@ body{
   font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
   font-size: 100%;
   line-height: 200%;
+  font-weight: 300;
   vertical-align: baseline;
   color: #18191a;
   background: #fff;
@@ -52,8 +53,7 @@ article a,
     background: #fff4cc;
   }
 h1,h2,h3,h4{
-  font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
-  font-weight: 500;
+  font-weight: 400;
 }
 code{
   font-family: Lucida Console, Monaco, Andale Mono, monospace;
@@ -72,32 +72,6 @@ header[role="banner"]{
   padding: 40px 0 50px 0;
   border-bottom: 1px solid #ddd;
 }
-  .logo{
-    display: inline-block;
-    width: 147px;
-    height: 147px;
-    border-radius: 200px 200px 200px 200px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5) inset, 0 0 2px 1px rgba(0, 0, 0, 0.05) inset;
-    margin-top: 20px;
-    border: 0 none;
-    background: url(http://zerply.com/profile_images/0/763/big.jpg?1347419858) no-repeat center center;
-  }
-    .logo img{
-      display: none;
-    }
-  .about{
-    margin-top: 20px;
-    font-size: 1.125em;
-    font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
-    font-weight: normal;
-    line-height: 1.4em;
-    color: #000;
-    text-align: center;
-    text-shadow: 0 1px rgba(255,255,255,.4);
-  }
-    .about span{
-      font-style: italic;
-    }
   .headlinks{
     list-style: none;
     overflow: hidden;
@@ -160,9 +134,8 @@ section[role="main"]{
         display: block;
         margin-bottom: 8px;
         color: #a4abb2;
-        font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
         font-size: .75em;
-        font-weight: 500;
+        font-weight: 400;
         text-transform: uppercase;
         letter-spacing: .2em;
       }
@@ -349,8 +322,7 @@ article .content .gist .gist-meta{
       margin: 0 0 10px 160px;
       font-size: 1.5em;
       padding-top: 15px;
-      font-family: 'Source Sans Pro', Helvetica Neue, Helvetica, Arial, serif;
-      font-weight: 200;
+      font-weight: 400;
     }
     .bio p{
       margin-left: 160px;
