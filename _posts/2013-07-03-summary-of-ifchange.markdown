@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "summary of my stay in ifchange"
+title:  "Summary of My Stay in Ifchange"
 date:   2013-07-03
 categories: design
 ---
