@@ -171,6 +171,12 @@ a.ruby {
 	cursor: default;
 }
 
+a.tiny {
+	color: #333333;
+	font-weight: 600;
+	cursor: default;
+}
+
 a:hover.glow {
 	color: #5a62d2;
   border-bottom: 2px solid #5a62d2;
@@ -184,6 +190,11 @@ a:hover.nurture {
 a:hover.ruby {
 	color: #fe4444;
   border-bottom: 2px solid #fe4444;
+}
+
+a:hover.tiny {
+	color: #333333;
+  border-bottom: 2px solid #333333;
 }
 
 a:hover.email {
